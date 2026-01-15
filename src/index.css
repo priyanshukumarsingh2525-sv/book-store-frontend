@@ -1,0 +1,14 @@
+/* src/index.css OR src/main.css */
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FFCE1A;
+  --color-secondary: #0D0842;
+  --color-blackbg: #F3F3F3;
+
+  --font-primary: Montserrat, sans-serif;
+  --font-secondary: "Nunito Sans", sans-serif;
+  
+  
+}
+
